@@ -6,6 +6,26 @@
     display: flex;
     gap: 70px;
     height: 100%;
+
+    @media (max-width: 1360px) {
+        display: block;
+        width: 968px;
+        margin: 0px auto;
+    }
+
+    @media (max-width: 980px) {
+        width: 320px;
+    }
+}
+
+.header {
+    display: none;
+
+    @media (max-width: 1360px) {
+        display: flex;
+        align-items: center;
+        gap: 50px;
+    }
 }
 
 .menu {
@@ -16,6 +36,24 @@
     flex-direction: column;
     align-items: center;
     gap: 16px;
+
+    @media (max-width: 1360px) {
+        opacity: 0;
+        position: absolute;
+        transform: translateX(-100%);
+        top: 0px;
+        transition: transform .3s ease;
+        z-index: 100;
+        box-shadow: 2px 0px 5px $gray;
+
+        &--active {
+            opacity: 1;
+            left: 0px;
+            display: flex;
+            overflow: hidden;
+            transform: translateX(0);
+        }
+    }
 
     &__list {
         display: flex;
@@ -108,166 +146,5 @@
         font-size: 1.2rem;
         line-height: 1.8rem;
         text-transform: capitalize;
-    }
-}
-
-.customers {
-    &__greeting {
-        margin: 41px 0px 51px;
-        font-size: 2.4rem;
-        line-height: 3.6rem;
-    }
-
-    &__content {
-        width: 968px;
-        padding: 30px 44px 40px 38px;
-        background-color: $white;
-        border-radius: 30px;
-    }
-
-    &__top {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin: 0px 0 20px 0;
-    }
-
-    &__title {
-        font-weight: 600;
-        font-size: 2.2rem;
-        line-height: 3.3rem;
-        margin-bottom: 6px;
-    }
-
-    &__active {
-        font-size: 1.4rem;
-        line-height: 2.1rem;
-        color: $caribbean-green;
-        letter-spacing: -0.03rem;
-    }
-
-    &__search {
-        position: relative;
-        margin: 7px 8px 0px 0px;
-    }
-
-    &__search-img {
-        position: absolute;
-        left: 8px;
-        top: 7px;
-        width: 24px;
-        height: 24px;
-    }
-
-    &__search-input {
-        border: none;
-        background-color: #F9FBFF;
-        border-radius: 10px;
-        width: 216px;
-        font-size: 1.2rem;
-        line-height: 1.8rem;
-        padding: 10px 10px 10px 40px;
-    }
-}
-
-.table {
-    border-collapse: collapse;
-    width: 100%;
-
-    &__head {}
-
-    &__head-row {
-        position: relative;
-
-        &::after {
-            content: "";
-            width: 968px;
-            left: -38px;
-            bottom: 0px;
-            border-bottom: 1px solid #EEEEEE;
-            position: absolute;
-        }
-    }
-
-    &__title {
-        text-align: start;
-        font-size: 1.4rem;
-        line-height: 2.1rem;
-        color: #B5B7C0;
-        padding: 20px 0;
-    }
-
-    &__body {}
-
-    &__body-row {
-        border-bottom: 1px solid #EEEEEE;
-    }
-
-    &__description {
-        font-size: 1.4rem;
-        line-height: 2.1rem;
-        color: #292D32;
-        padding: 20px 0px;
-        max-width: 170px;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-
-    &__description-button {
-        font-size: 1.4rem;
-        line-height: 2.1rem;
-        padding: 4px 12px;
-        width: 80px;
-        border-radius: 4px;
-
-        &--active {
-            background-color: rgba(22, 192, 152, .38);
-            border: 1px solid $persian-green;
-            color: $persian-green;
-        }
-
-        &--inactive {
-            background-color: #FFC5C5;
-            border: 1px solid #DF0404;
-            color: #DF0404;
-        }
-    }
-}
-
-.paginate {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 30px 0px 0px;
-
-    &__info {
-        font-size: 1.4rem;
-        line-height: 2.1rem;
-        color: #B5B7C0;
-    }
-}
-
-.pagination {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-
-    &__item-link {
-        background-color: #F5F5F5;
-        border: 1px solid #EEEEEE;
-        padding: 6px 9px;
-        font-size: 1.2rem;
-        line-height: 1.2rem;
-        color: #404B52;
-        cursor: pointer;
-        transition: all .3s ease;
-
-        &--active,
-        &:hover {
-            color: $white;
-            background-color: $blue-lilac;
-            border: 1px solid $blue-lilac;
-        }
     }
 }
