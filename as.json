@@ -1,2808 +1,2808 @@
 [
   {
     "id": "0",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "1",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "2",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "3",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "4",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "5",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "6",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "7",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "8",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "9",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "10",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "11",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "12",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "13",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "14",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "15",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "16",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "17",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "18",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "19",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "20",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "21",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "22",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "23",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "24",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "25",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "26",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "27",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "28",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "29",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "30",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "31",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "32",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "33",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "34",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "35",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "36",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "37",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "38",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "39",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "40",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "41",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "42",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "43",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "44",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "45",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "46",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "47",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "48",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "49",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "50",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "51",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "52",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "53",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "54",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "55",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "56",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "57",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "58",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "59",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "60",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "61",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "62",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "63",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "64",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "65",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "66",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "67",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "68",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "69",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "70",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "71",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "72",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "73",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "74",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "75",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "76",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "77",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "78",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "79",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "80",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "81",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "82",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "83",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "84",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "85",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "86",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "87",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "89",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "90",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "91",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "92",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "93",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "94",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "95",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "96",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "97",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "98",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "99",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "100",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "101",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "102",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "103",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "104",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "0",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "1",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "2",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "3",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "4",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "5",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "6",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "7",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "8",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "9",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "10",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "11",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "12",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "13",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "14",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "15",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "16",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "17",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "18",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "19",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "20",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "21",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "22",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "23",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "24",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "25",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "26",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "27",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "28",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "29",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "30",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "31",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "32",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "33",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "34",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "35",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "36",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "37",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "38",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "39",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "40",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "41",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "42",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "43",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "44",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "45",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "46",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "47",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "48",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "49",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "50",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "51",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "52",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "53",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "54",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "55",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "56",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "57",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "58",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "59",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "60",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "61",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "62",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "63",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "64",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "65",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "66",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "67",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "68",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "69",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "70",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "71",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "72",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "73",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "74",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "75",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "76",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "77",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "78",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "79",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "80",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "81",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "82",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "83",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "84",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "85",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "86",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "87",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "89",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "90",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "91",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "92",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "93",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "94",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "95",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "96",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "97",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "98",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "99",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "100",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "101",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "102",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "103",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "104",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "105",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "106",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "107",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "108",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "109",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "110",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "111",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "112",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "113",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "114",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "115",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "116",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "117",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "118",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "119",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "120",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "121",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "122",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "123",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "124",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "125",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
-    "Status": "Active"
+    "Status": "true"
   },
   {
     "id": "126",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
     "Status": "Active"
   },
   {
     "id": "127",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
     "Status": "Active"
   },
   {
     "id": "128",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "129",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
     "Status": "Active"
   },
   {
     "id": "130",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "131",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "132",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
     "Status": "Active"
   },
   {
     "id": "133",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
     "Status": "Active"
   },
   {
     "id": "134",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
     "Status": "Active"
   },
   {
     "id": "135",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
     "Status": "Active"
   },
   {
     "id": "136",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "137",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
     "Status": "Active"
   },
   {
     "id": "138",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "139",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "140",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
     "Status": "Active"
   },
   {
     "id": "141",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
     "Status": "Active"
   },
   {
     "id": "142",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
     "Status": "Active"
   },
   {
     "id": "143",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
     "Status": "Active"
   },
   {
     "id": "144",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "145",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
     "Status": "Active"
   },
   {
     "id": "146",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "147",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "148",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
     "Status": "Active"
   },
   {
     "id": "149",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
     "Status": "Active"
   },
   {
     "id": "150",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
     "Status": "Active"
   },
   {
     "id": "151",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
     "Status": "Active"
   },
   {
     "id": "152",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "153",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
     "Status": "Active"
   },
   {
     "id": "154",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "155",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "156",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
     "Status": "Active"
   },
   {
     "id": "157",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
     "Status": "Active"
   },
   {
     "id": "158",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
     "Status": "Active"
   },
   {
     "id": "159",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
     "Status": "Active"
   },
   {
     "id": "160",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "161",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
     "Status": "Active"
   },
   {
     "id": "162",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
-    "Status": "Inactive"
+    "Status": "false"
   },
   {
     "id": "163",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
     "Status": "Inactive"
   },
   {
     "id": "164",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
     "Status": "Active"
   },
   {
     "id": "165",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
     "Status": "Active"
   },
   {
     "id": "166",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
     "Status": "Active"
   },
   {
     "id": "167",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
     "Status": "Active"
   },
   {
     "id": "168",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
     "Status": "Inactive"
   },
   {
     "id": "169",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
     "Status": "Active"
   },
   {
     "id": "170",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
     "Status": "Inactive"
   },
   {
     "id": "171",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
     "Status": "Inactive"
   },
   {
     "id": "172",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
     "Status": "Active"
   },
   {
     "id": "173",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
     "Status": "Active"
   },
   {
     "id": "174",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
     "Status": "Active"
   },
   {
     "id": "175",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
     "Status": "Active"
   },
   {
     "id": "176",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
     "Status": "Inactive"
   },
   {
     "id": "177",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
     "Status": "Active"
   },
   {
     "id": "178",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
     "Status": "Inactive"
   },
   {
     "id": "179",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
     "Status": "Inactive"
   },
   {
     "id": "180",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
     "Status": "Active"
   },
   {
     "id": "181",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
     "Status": "Active"
   },
   {
     "id": "182",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
     "Status": "Active"
   },
   {
     "id": "183",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
     "Status": "Active"
   },
   {
     "id": "184",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
     "Status": "Inactive"
   },
   {
     "id": "185",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
     "Status": "Active"
   },
   {
     "id": "186",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
     "Status": "Inactive"
   },
   {
     "id": "187",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
     "Status": "Inactive"
   },
   {
     "id": "188",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
     "Status": "Active"
   },
   {
     "id": "189",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
     "Status": "Active"
   },
   {
     "id": "190",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
     "Status": "Active"
   },
   {
     "id": "191",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
     "Status": "Active"
   },
   {
     "id": "192",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
     "Status": "Inactive"
   },
   {
     "id": "193",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
     "Status": "Active"
   },
   {
     "id": "194",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
     "Status": "Inactive"
   },
   {
     "id": "195",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
     "Status": "Inactive"
   },
   {
     "id": "196",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
     "Status": "Active"
   },
   {
     "id": "197",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
     "Status": "Active"
   },
   {
     "id": "198",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
     "Status": "Active"
   },
   {
     "id": "199",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
     "Status": "Active"
   },
   {
     "id": "200",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
     "Status": "Inactive"
   },
   {
     "id": "201",
-    "Customer Name": "Jane Cooper",
+    "Name": "Jane Cooper",
     "Company": "Microsoft",
-    "Phone Number": "(225) 555-0118",
+    "Phone": "(225) 555-0118",
     "Email": "jane@microsoft.com",
     "Country": "United States",
     "Status": "Active"
   },
   {
     "id": "202",
-    "Customer Name": "Floyd Miles",
+    "Name": "Floyd Miles",
     "Company": "Yahoo",
-    "Phone Number": "(205) 555-0100",
+    "Phone": "(205) 555-0100",
     "Email": "jfloyd@yahoo.com",
     "Country": "Kiribati",
     "Status": "Inactive"
   },
   {
     "id": "203",
-    "Customer Name": "Ronald Richards",
+    "Name": "Ronald Richards",
     "Company": "Adobe",
-    "Phone Number": "(302) 555-0107",
+    "Phone": "(302) 555-0107",
     "Email": "ronald@adobe.com",
     "Country": "Israel",
     "Status": "Inactive"
   },
   {
     "id": "204",
-    "Customer Name": "Marvin McKinney",
+    "Name": "Marvin McKinney",
     "Company": "Tesla",
-    "Phone Number": "(252) 555-0126",
+    "Phone": "(252) 555-0126",
     "Email": "marvin@tesla.com",
     "Country": "Iran",
     "Status": "Active"
   },
   {
     "id": "205",
-    "Customer Name": "Jerome Bell",
+    "Name": "Jerome Bell",
     "Company": "Google",
-    "Phone Number": "(629) 555-0129",
+    "Phone": "(629) 555-0129",
     "Email": "jerome@google.com",
     "Country": "Réunion",
     "Status": "Active"
   },
   {
     "id": "206",
-    "Customer Name": "Kathryn Murphy",
+    "Name": "Kathryn Murphy",
     "Company": "Microsoft",
-    "Phone Number": "(406) 555-0120",
+    "Phone": "(406) 555-0120",
     "Email": "kathryn@microsoft.com",
     "Country": "Curaçao",
     "Status": "Active"
   },
   {
     "id": "207",
-    "Customer Name": "Jacob Jones",
+    "Name": "Jacob Jones",
     "Company": "Yahoo",
-    "Phone Number": "(208) 555-0112",
+    "Phone": "(208) 555-0112",
     "Email": "jacob@yahoo.com",
     "Country": "Brazil",
     "Status": "Active"
   },
   {
     "id": "208",
-    "Customer Name": "Kristin Watson",
+    "Name": "Kristin Watson",
     "Company": "Facebook",
-    "Phone Number": "(704) 555-0127",
+    "Phone": "(704) 555-0127",
     "Email": "kristin@facebook.com",
     "Country": "Åland Islands",
     "Status": "Inactive"

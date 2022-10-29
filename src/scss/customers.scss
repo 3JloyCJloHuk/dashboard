@@ -1,8 +1,10 @@
 @import "./variables";
 
 .customers {
+    padding: 41px 0;
+
     &__greeting {
-        margin: 41px 0px 51px;
+        margin: 0 0 51px;
         font-size: 2.4rem;
         line-height: 3.6rem;
     }
@@ -117,7 +119,7 @@
         font-size: 1.4rem;
         line-height: 2.1rem;
         color: #292D32;
-        padding: 20px 0px;
+        padding: 18px 0px;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -166,20 +168,20 @@
 
     @media (max-width: 980px) {
         flex-direction: column;
+        gap: 20px;
     }
 
     &__info {
         font-size: 1.4rem;
         line-height: 2.1rem;
         color: #B5B7C0;
-        margin-bottom: 30px;
     }
 }
 
 .pagination {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 8px;
     height: 31px;
 
 
@@ -190,7 +192,8 @@
     &__item-link {
         background-color: #F5F5F5;
         border: 1px solid #EEEEEE;
-        padding: 6px 9px;
+        border-radius: 4px;
+        padding: 3px 9px;
         font-size: 1.2rem;
         line-height: 1.2rem;
         color: #404B52;
@@ -209,5 +212,19 @@
             background-color: $blue-lilac;
             border: 1px solid $blue-lilac;
         }
+
+        &--break {
+            font-size: 1.2rem;
+            line-height: 1.2rem;
+        }
+    }
+}
+
+.loader {
+    display: block;
+    margin: 303px auto;
+
+    @media (max-width: 980px) {
+        margin: 50px auto 200px;
     }
 }
