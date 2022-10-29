@@ -1,6 +1,6 @@
 import React from "react";
 
-const Table = () => {
+const Table = ({ customers }) => {
     return (
         <table className="table">
             <thead className="table__head">
@@ -14,26 +14,16 @@ const Table = () => {
                 </tr>
             </thead>
             <tbody className="table__body">
-                <tr className="table__body-row">
-                    <td className="table__description" datalabel="Customer Name">Jane Cooper</td>
-                    <td className="table__description" datalabel="Company">Microsoft</td>
-                    <td className="table__description" datalabel="Phone Number">(225) 555-0118</td>
-                    <td className="table__description" datalabel="Email">jane@microsoft.com</td>
-                    <td className="table__description" datalabel="Country">United States</td>
+                {customers.map(item => <tr className="table__body-row" key={item.id}>
+                    <td className="table__description" datalabel="Customer Name">{item.Name}</td>
+                    <td className="table__description" datalabel="Company">{item.Company}</td>
+                    <td className="table__description" datalabel="Phone Number">{item.Phone}</td>
+                    <td className="table__description" datalabel="Email">{item.Email}</td>
+                    <td className="table__description" datalabel="Country">{item.Country}</td>
                     <td className="table__description" datalabel="Status">
-                        <button className="table__description-button table__description-button--active">Active</button>
+                        <button className={item.Status === "true" ? "table__description-button table__description-button--active" : "table__description-button table__description-button--inactive"}>{item.Status === "true" ? "Active" : "Inactive"}</button>
                     </td>
-                </tr>
-                <tr className="table__body-row">
-                    <td className="table__description">Floyd Miles</td>
-                    <td className="table__description">Yahoo</td>
-                    <td className="table__description">(205) 555-0100</td>
-                    <td className="table__description">floyd@yahoo.com</td>
-                    <td className="table__description">Kiribati</td>
-                    <td className="table__description">
-                        <button className="table__description-button table__description-button--inactive">Inactive</button>
-                    </td>
-                </tr>
+                </tr>)}
             </tbody>
 
         </table>
