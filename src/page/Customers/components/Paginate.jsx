@@ -11,17 +11,17 @@ const Paginate = ({ handlePageClick, totalPage, page }) => {
             pageCount={totalPage}
             forcePage={page - 1}
             previousLabel="<"
-            pageClassName="pagination__item"
-            pageLinkClassName="pagination__item-link"
-            previousClassName="pagination__item"
-            previousLinkClassName="pagination__item-link"
-            nextClassName="pagination__item"
-            nextLinkClassName="pagination__item-link"
+            pageClassName="customers-pagination__item"
+            pageLinkClassName="customers-pagination__item-link"
+            previousClassName="customers-pagination__item"
+            previousLinkClassName="customers-pagination__item-link"
+            nextClassName="customers-pagination__item"
+            nextLinkClassName="customers-pagination__item-link"
             breakLabel="..."
-            breakClassName="pagination__item"
-            breakLinkClassName="pagination__item-link--break"
-            containerClassName="pagination"
-            activeLinkClassName="pagination__item-link pagination__item-link--active"
+            breakClassName="customers-pagination__item"
+            breakLinkClassName="customers-pagination__item-link--break"
+            containerClassName="customers-pagination"
+            activeLinkClassName="customers-pagination__item-link customers-pagination__item-link--active"
             renderOnZeroPageCount={null}
         />
     )
