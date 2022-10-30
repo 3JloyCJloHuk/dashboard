@@ -1,5 +1,4 @@
 @import "./normalize";
-@import "./variables";
 
 
 .wrapper {
@@ -26,32 +25,54 @@
         align-items: center;
         gap: 50px;
     }
+
+    &__menu {
+        cursor: pointer;
+    }
 }
 
 .menu {
     width: 306px;
-    background-color: $white;
+    background-color: #ffffff;
     min-height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 16px;
+    position: relative;
 
     @media (max-width: 1360px) {
         opacity: 0;
         position: fixed;
-        transform: translateX(-100%);
         top: 0px;
-        transition: transform .3s ease;
         z-index: 100;
-        box-shadow: 2px 0px 5px $gray;
+        transition: transform .3s ease;
+        transform: translate(-100%);
+        box-shadow: 2px 0px 5px #9197B3;
 
         &--active {
             opacity: 1;
             left: 0px;
             display: flex;
-            transform: translateX(0);
+            transform: translate(0);
         }
+    }
+
+    &__close {
+        display: none;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        cursor: pointer;
+
+        @media (max-width: 1360px) {
+            display: block;
+        }
+    }
+
+    &__close-img {
+        width: 18px;
+        height: 18px;
     }
 
     &__list {
@@ -72,7 +93,7 @@
     &__item-link {
         font-size: 1.4rem;
         line-height: 2.1rem;
-        color: $gray;
+        color: #9197B3;
         display: flex;
         align-items: center;
         padding: 11px;
@@ -80,12 +101,12 @@
 
         &:hover,
         &--active {
-            background-color: $blue-lilac;
-            color: $white;
+            background-color: #5932EA;
+            color: #ffffff;
             border-radius: 8px;
 
             svg {
-                stroke: $white;
+                stroke: #ffffff;
             }
         }
     }
@@ -117,7 +138,7 @@
         font-weight: 500;
         line-height: 1.5rem;
         letter-spacing: -1%;
-        color: #838383;
+        color: #838383
     }
 }
 

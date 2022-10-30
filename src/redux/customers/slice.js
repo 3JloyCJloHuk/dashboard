@@ -7,7 +7,8 @@ const initialState = {
     count: 8,
     totalPage: null,
     totalCount: null,
-    status: "loading"
+    status: "loading",
+    searchValueName: "",
 }
 
 const sliceCustomers = createSlice({
@@ -17,6 +18,9 @@ const sliceCustomers = createSlice({
         // змінна сторінки
         setPage(state, action) {
             state.page = action.payload;
+        },
+        setSearchValueName(state, action) {
+            state.searchValueName = action.payload;
         },
     },
     extraReducers: (builder) => {
@@ -41,6 +45,6 @@ const sliceCustomers = createSlice({
     }
 })
 
-export const { setPage } = sliceCustomers.actions;
+export const { setPage, setSearchValueName } = sliceCustomers.actions;
 
 export default sliceCustomers.reducer;

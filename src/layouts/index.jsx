@@ -8,19 +8,18 @@ const MainLayout = () => {
 
     const location = useLocation();
     const [linkActive, setLinkActive] = React.useState(location.pathname);
+
+    // відкрити, закрити хамбургер меню
     const [openMenu, setOpenMenu] = React.useState(false);
 
-    const onClickOpenMenu = () => {
-
-    }
-
+    // змінна активної кнопки
     const NavigateOnClickMenuItem = (pathname) => {
         setLinkActive(pathname);
+        // щоб не відбувалося лишню дії коли хамбургер закритий
         if (openMenu === true) {
             setOpenMenu(false);
         }
     }
-
 
     return (
         <div className="wrapper">
@@ -33,7 +32,7 @@ const MainLayout = () => {
                     <h3 className="logo__name">Dashboard<span className="logo__version"> v.01</span></h3>
                 </div>
             </header>
-            <LeftSideMenu linkActive={linkActive} openMenu={openMenu} NavigateOnClickMenuItem={NavigateOnClickMenuItem} setting={setting} />
+            <LeftSideMenu linkActive={linkActive} openMenu={openMenu} NavigateOnClickMenuItem={NavigateOnClickMenuItem} setting={setting} setOpenMenu={setOpenMenu} />
             <Outlet />
         </div>
     )
