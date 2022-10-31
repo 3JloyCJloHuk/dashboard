@@ -9,7 +9,6 @@ export const fetchCustomers = createAsyncThunk(
         const { data } = await axios.get(
             `https://62a9f7673b314385543f63b0.mockapi.io/posts?page=${page}&limit=${count}&Name=${searchValueName}`,
         );
-        console.log(data)
-        return data;
+        return data
     }
 )

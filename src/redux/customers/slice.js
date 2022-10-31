@@ -29,7 +29,6 @@ const sliceCustomers = createSlice({
             state.customers = [];
         });
         builder.addCase(fetchCustomers.fulfilled, (state, action) => {
-            console.log(action);
             state.customers = action.payload.items;
             state.totalPage = Math.ceil(action.payload.count / state.count);
             state.totalCount = action.payload.count;
